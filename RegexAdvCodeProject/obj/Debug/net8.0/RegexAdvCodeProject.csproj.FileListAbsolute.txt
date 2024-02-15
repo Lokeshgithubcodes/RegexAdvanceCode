@@ -1,0 +1,14 @@
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\bin\Debug\net8.0\RegexAdvCodeProject.exe
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\bin\Debug\net8.0\RegexAdvCodeProject.deps.json
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\bin\Debug\net8.0\RegexAdvCodeProject.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\bin\Debug\net8.0\RegexAdvCodeProject.dll
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\bin\Debug\net8.0\RegexAdvCodeProject.pdb
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.dll
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\refint\RegexAdvCodeProject.dll
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.pdb
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\ref\RegexAdvCodeProject.dll
