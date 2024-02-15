@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -26,14 +28,13 @@ namespace RegexAdvCodeProject
             }
         }
 
-        public void phoneValid()
+        public void phoneValid(string phoneNo)
         {
-            Console.WriteLine("Enter the phone number");
-            string phone=Console.ReadLine();
+            
             string ppattern = @"^[+91]{3}[0-9]{10}$";
             Regex r=new Regex(ppattern);
-            bool res=r.IsMatch(phone);
-            if (res)
+            
+            if (r.IsMatch(phoneNo))
             {
                 Console.WriteLine("valid");
             }
@@ -42,15 +43,14 @@ namespace RegexAdvCodeProject
                 Console.WriteLine("invalid");
             }
         }
-
-        public void passwordValid()
+        //-- password validation
+        public void passwordValid(string pwdNo)
         {
-            Console.WriteLine("Enter the password");
-            string password=Console.ReadLine();
+            
             string Pwdpattern = @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^\da-zA-Z]).{8,}$";
-            Regex r = new Regex(Pwdpattern);
-            bool res=r.IsMatch(password);
-            if (res)
+            Regex rp = new Regex(Pwdpattern);
+            
+            if (rp.IsMatch(pwdNo))
             {
                 Console.WriteLine("Valid");
             }
@@ -59,5 +59,30 @@ namespace RegexAdvCodeProject
                 Console.WriteLine("Invalid");
             }
         }
+
+        // License Plates
+
+        public void licenseplate(string plateNo)
+        {
+            string p1 = @"^[A-Z]{3}[0-9]{3}$";
+            string p2 = @"^[A-Z]{2}[0-9]{3}[A-Z]{2}$";
+            string p3 = @"^[0-9]{3}[A-Z]{4}$";
+
+            Regex r1=new Regex(p1);
+            Regex r2 = new Regex(p2);
+            Regex r3 = new Regex(p3);
+
+            if((r1.IsMatch(plateNo)) || (r2.IsMatch(plateNo)) || (r3.IsMatch(plateNo)))
+            {
+                Console.WriteLine("Valid L-plate");
+            }
+            else
+            {
+                   Console.WriteLine("Ivalid");
+            }
+            
+        }
+
+        
     }
 }

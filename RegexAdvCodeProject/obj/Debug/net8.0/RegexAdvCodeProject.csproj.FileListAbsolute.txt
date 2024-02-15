@@ -12,3 +12,4 @@ C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\ob
 C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.pdb
 C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.genruntimeconfig.cache
 C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\ref\RegexAdvCodeProject.dll
+C:\Users\Ramisettylokesh\source\repos\RegexAdvCodeProject\RegexAdvCodeProject\obj\Debug\net8.0\RegexAdvCodeProject.sourcelink.json
